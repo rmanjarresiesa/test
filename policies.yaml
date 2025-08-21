@@ -1,0 +1,5 @@
+dialect: sql server
+allowed_statements: [SELECT]
+default_row_limit: 100
+blocked_tables: []
+pii_columns: [email, telefono, numero_documento]

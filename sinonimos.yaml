@@ -1,0 +1,3 @@
+ventas: [facturacion, revenue]
+cliente: [clientes, comprador, account]
+producto: [item, articulo]
